@@ -1,0 +1,20 @@
+===================================================
+  Translito - Taşınabilir Ekran & Oyun Çevirici
+===================================================
+
+Translito, tamamen bağımsız ve taşınabilir bir yapay zeka çeviri aracıdır.
+Herhangi bir kuruluma (Python, ek program vb.) ihtiyaç duymaz.
+
+[NASIL ÇALIŞTIRILIR?]
+1. "Baslat.bat" dosyasına çift tıklayın.
+   (İsteğe bağlı: "Masaustune_Kisayol_Olustur.bat" ile masaüstünüze tek tıkla Translito kısayolu ekleyebilirsiniz.)
+2. Oyununuzu veya videonuzu açın.
+
+[KISAYOLLAR]
+- F9: Altyazı çevirisini açar / kapatır (Ayar panelinden dilediğiniz tuş veya mouse tuşu atanabilir).
+- F8: Ekranda okunacak alanı (ROI) seçmenizi sağlar.
+
+[ÖZELLİKLER]
+- 0 İnternet / Tamamen Çevrimdışı: NLLB-200 ve OCR modelleri pakete gömülüdür.
+- Otomatik Ekran Kartı & İşlemci Hibrit Hızlandırma: NVIDIA ekran kartı varsa CUDA ile çalışır, yoksa otomatik olarak optimize CPU moduna geçer.
+- Sıfır FPS Kaybı: Akıllı metin parlaklık filtresi sayesinde ekranda konuşma yokken oyunun FPS akıcılığını %100 korur.

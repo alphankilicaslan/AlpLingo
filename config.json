@@ -1,0 +1,29 @@
+{
+    "capture_area": {
+        "x": 574,
+        "y": 829,
+        "width": 715,
+        "height": 49
+    },
+    "overlay_position": {
+        "x": 176,
+        "y": 905,
+        "width": 1284,
+        "height": 139
+    },
+    "font_family": "Segoe UI",
+    "font_size": 22,
+    "font_weight": "Bold",
+    "text_color": "#FFFFFF",
+    "outline_color": "#000000",
+    "outline_width": 2,
+    "bg_color": "#000000",
+    "bg_opacity": 255,
+    "alignment": "Center",
+    "hotkey_type": "keyboard",
+    "hotkey_value": "f9",
+    "hotkey_display": "F9",
+    "source_lang": "İngilizce",
+    "auto_scan": true,
+    "scan_interval_ms": 300
+}
